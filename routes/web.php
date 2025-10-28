@@ -69,3 +69,7 @@ Route::get('/greeting', function () {
 
 Route::get('/greeting', [WelcomeController::class,
 'greeting']);
+
+
+// commit kedua percobaan
+
